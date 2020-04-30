@@ -1,2 +1,8 @@
 # MengqingWu.github.io
-MW's github page repo
+
+* author: Mengqing Wu
+* create: 29 Apr,2020
+
+* description:
+- Repository to host my personal webpage
+- Template downloaded from BootstrapMade
